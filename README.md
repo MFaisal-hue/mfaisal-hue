@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Muhammad Faisal</h1>
+<h3 align="center">Frontend Developer in the making from Pakistan</h3>
+
 ### 👨‍💻 About Me
 - 🔭 Working on *Basic-Project*
 - 🌱 Learning *HTML, CSS, JavaScript*
@@ -14,12 +17,12 @@
   <a href="https://www.facebook.com/share/1L4MmGi4d5/">
     <img src="https://skillicons.dev/icons?i=facebook" width="40" height="40" />
   </a>
-  <a href="https://www.instagram.com/__faisal_io?igsh=OWFyb2Y2YTRqb3Rs">
+  <a href="https://www.instagram.com/__faisal_io">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" />
   </a>
 </p>
 
 ### 📊 GitHub Stats
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MFaisal-hue&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MFaisal-hue&show_icons=true&theme=dark&hide_border=true" />
 </p>
