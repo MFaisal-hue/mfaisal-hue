@@ -9,6 +9,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
+
 ### 📱 Connect with me
 <p>
   <a href="https://www.facebook.com/share/1L4MmGi4d5/">
@@ -21,5 +22,5 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MFaisal-hue&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mfaisal-hue&show_icons=true&theme=dark" />
 </p>
