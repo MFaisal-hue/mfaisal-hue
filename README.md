@@ -2,7 +2,7 @@
 - 🔭 Working on *Basic-Project*
 - 🌱 Learning *HTML, CSS, JavaScript*
 - 💬 Ask me about *Web Development*
-- 📫 Reach me at: **m66913845@gmail.com*
+- 📫 Reach me at: **m66913845@gmail.com**
 
 ### 🛠️ Tech Stack
 <p>
