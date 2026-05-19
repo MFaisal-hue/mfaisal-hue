@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Muhammad Faisal</h1>
-<h3 align="center">Frontend Developer in the making from Pakistan</h3>
-
 ### 👨‍💻 About Me
 - 🔭 Working on *Basic-Project*
 - 🌱 Learning *HTML, CSS, JavaScript*
